@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name=viewport content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <title>聚宝盆用户注册服务协议</title>
+    <style>
+        body{
+            font-family: "微软雅黑";
+        }
+    </style>
+</head>
+
+<body>
+    <h1 id="docTitle" style="font-size: 18px; text-align:center; padding: 20px;">聚宝盆用户注册服务协议</h1>
+
+    <div style="font-size: 16px;line-height: 1.8">
+        <p>感谢您使用<span>聚宝盆</span>服务！</p>
+        <p>
+            <span>&nbsp;&nbsp; “聚宝盆</span><span>”</span>为上海大脚网络科技有限公司运营并管理的互联网信息发布及推广平台，下述<span>“聚宝盆</span><span>”</span>的表述，既包括指代<span>聚宝盆</span>服务，也包括指代<span>聚宝盆</span>服务的提供者。<span>“</span>用户<span>”</span>是指使用<span>聚宝盆</span>相关服务的使用人，在本协议中更多地称为<span>“</span>您<span>”</span>或<span>“</span>用户<span>”</span>。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <strong>在使用<span>聚宝盆</span>服务之前，请您务必审慎阅读、充分理解《<span>聚宝盆</span>用户注册服务协议》（以下简称<span>“</span>本协议<span>”</span>），特别是<span>“</span>特别提示<span>”</span>条款、限制或免除责任的相应条款、法律适用和争议解决条款等以加粗形式提示您的部分。</strong>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <strong><span>聚宝盆</span>不向未成年人或无完全行为能力人提供服务，请您确保您已满十八周岁并具有完全行为能力。若您在注册登录或使用“<span>聚宝盆</span>”时勾选本协议即表示您确认对本协议全部条款含义已充分理解、完全接受。您下载、注册登录、使用“<span>聚宝盆</span>”<span>APP</span>或<span>WEB</span>页功能即视为您已知悉并同意接受本协议项下所有条款内容。</strong>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h1 style="margin: 0 0 0">
+            <span style="font-size:16px">特别提示：</span>
+        </h1>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <span>■&nbsp;&nbsp; </span>您知晓，<strong><span>聚宝盆</span>仅作为信息提供平台</strong>，您在使用本平台上搜索或匹配到的金融服务或产品时，包括但不限于认证、授信风控、贷款、贷后管理（催收）等，均是与该金融产品或服务的提供商产生独立的合同关系，本平台并非相应法律关系中的一方主体。
+        </p>
+        <p>
+            <span>■&nbsp;&nbsp; </span>您知晓：当您接受平台展示金融产品或服务的提供商服务时，<strong>根据您选择的金融产品或服务的提供商的要求需要您提供必要的个人信息，再此之前请您务必仔细阅读并完全同意金融产品或服务的提供商与您达成的《隐私条款》及其他相关协议</strong>。<span>聚宝盆</span>对您未能阅读该《隐私条款》及其他相关协议造成的与金融产品或服务的提供商的争议，<span>聚宝盆</span>不负任何法律责任。因金融产品或服务的提供商未能履行《隐私条款》而造成的对您的违约行为，由金融产品或服务的提供商承担全部法律责任。
+        </p>
+        <p>
+            <strong><span>■&nbsp;&nbsp; </span>您知晓：根据您选择的特定金融产品或服务的提供商的服务，若需要<span>聚宝盆</span>将您的信息代为提交至特定金融产品或服务的提供商，<span>聚宝盆</span>将明确征得您的同意，<span>聚宝盆</span>代为提交后，该部分信息将受到您已同金融产品或服务的提供商达成的《隐私条款》的约束，因金融产品或服务的提供商未能履行《隐私条款》而造成的对您的违约责任，由金融产品或服务的提供商全部承担。</strong>
+        </p>
+        <p>
+            <strong><span>■&nbsp;&nbsp; </span>您知晓：<span>聚宝盆</span>仅提供互联网信息服务，若因您选择的特定金融产品或服务的提供商违反我国现行法律法规而给您造成的损失，<span>聚宝盆</span>不承担任何赔偿责任，届时<span>聚宝盆</span>将尽可能协助您与<span>聚宝盆</span>金融产品或服务的提供商进行沟通处理。</strong>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <strong><span>&nbsp;&nbsp;&nbsp; </span>您同意，<span>聚宝盆</span>有权在必要时修改本协议条款并按法律规定公示，您可以在相关服务页面查阅最新版本的协议条款。本协议条款变更后，如果您继续使用<span>聚宝盆</span>提供的服务，即视为已接受修改后的协议。如果您不接受修改后的协议，您应当停止使用<span>聚宝盆</span>提供的服务。</strong>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h1 style="margin: 0 0 0">
+            <span style="font-size:16px">第一条 协议的范围</span>
+        </h1>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            本协议是您与<span>聚宝盆</span>服务的提供者之间关于您登录、使用<span>聚宝盆</span>服务（包括但不限于<span>PC</span>端、移动端设备等方式登陆并使用<span>聚宝盆</span>服务）所订立的协议。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h1 style="margin: 0 0 0">
+            <span style="font-size:16px">第二条 登录账号使用规则</span>
+        </h1>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h2 style="margin: 0 0 0">
+            <span style="font-size:16px">一、用户注册及信息提供</span>
+        </h2>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <span>1</span>、您在注册或使用<span>聚宝盆</span>服务时可能需要提供一些必要的信息。您须保证所填写及所提供的资料真实、准确、完整，否则无法使用本服务或在使用过程中受到限制。<strong>对于因您提供的信息不真实、不准确或不完整导致的责任和损失由您承担。</strong>
+        </p>
+        <p>
+            <span>2</span>、<span>聚宝盆</span>有权根据您所提供资料的真实性、准确性、完整性以及是否符合<span>聚宝盆</span>规定的其他条件，决定是否为您提供服务。
+        </p>
+        <p>
+            <span>3</span>、用户在使用<span>聚宝盆</span>过程中，所提供的信息发生变动，应及时进行变更。
+        </p>
+        <p>
+            <span>4</span>、<strong>您自愿注册并使用<span>聚宝盆</span>，确认以<span>聚宝盆</span>的技术操作方式管理金融或非金融产品账户（如有）。</strong>
+        </p>
+        <p>
+            <span>5</span>、<strong>未成年人或非完全民事行为人使用本服务所产生的法律义务或所造成的法律风险，均由其监护人履行或承担。</strong>
+        </p>
+        <p>
+            <span>6</span>、<strong>为方便您登陆和使用金融产品<span>/</span>服务提供商的服务，您在此授权并委托<span>聚宝盆</span>可以将您在<span>聚宝盆</span>填写的信息提交给相关金融产品<span>/</span>服务提供商用于为您注册金融产品<span>/</span>服务提供平台的个人账户。</strong><span>聚宝盆</span>用户一经注册，即可在<span>聚宝盆</span>及我方平台合作伙伴等平台（即相关金融产品<span>/</span>服务提供商的平台）中通行使用。在用<span>聚宝盆</span>账号登录并使用其他平台提供的产品或服务时，除遵守本协议约定外，还应遵守该等平台服务协议的约定、平台公布的规则以及有关正确使用平台服务的说明和操作指引。<span>聚宝盆</span>和其他平台对可能出现的纠纷在法律规定和约定的范围内各自承担责任。
+        </p>
+        <p>
+            <span>7</span>、<span>聚宝盆</span>为用户提供综合信息服务，为客户体验及功能服务考虑，您在使用不同平台服务时被要求填写的内容可能不完全一致，因此，在使用更高级别服务时，为了给您提供更好的服务及为了您的登录账号安全，可能需要您补充完整信息后方可使用。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h2 style="margin: 0 0 0">
+            <span style="font-size:16px">二、登录账号和登录凭证安全</span>
+        </h2>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <strong>您须妥善保管本人的登录账号和登录凭证，凡使用<span>聚宝盆</span>登录账号和登录凭证的行为，<span>聚宝盆</span>视为您本人的操作，操作所产生的电子信息记录均为<span>聚宝盆</span>用户行为的有效凭据。您对利用该登录账号和登录凭证所进行的一切活动负全部责任。</strong>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            您应按照机密的原则保管登录账号和登录凭证，包括但不限于：
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <span>1</span>、不应在网吧等公众场所的或他人的电脑或网络设备上使用<span>聚宝盆</span>及相关金融产品<span>/</span>服务提供平台；
+        </p>
+        <p>
+            <span>2</span>、结束使用<span>聚宝盆</span>及相关金融产品<span>/</span>服务提供平台，应选择安全退出方式终止当前服务；
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h1 style="margin: 0 0 0">
+            <span style="font-size:16px">&nbsp;</span><span style="font-size:16px">第三条 用户的禁止行为</span>
+        </h1>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <strong>一、您使用<span>聚宝盆</span>服务时，禁止从事以下行为，<span>聚宝盆</span>的系统记录可作为实施该行为的证据：</strong>
+        </p>
+        <p>
+            <strong><span>&nbsp;</span></strong>
+        </p>
+        <p>
+            <strong><span>1</span>、发布、传送、传播、储存危害国家安全统一、破坏社会稳定、违反公序良俗、侮辱、诽谤、淫秽、暴力以及任何违反国家法律法规的内容；</strong>
+        </p>
+        <p>
+            <strong><span>2</span>、发布、传送、传播、储存侵害他人知识产权、商业秘密等合法权利的内容；</strong>
+        </p>
+        <p>
+            <strong><span>3</span>、恶意虚构事实、隐瞒真相以误导、欺骗他人；</strong>
+        </p>
+        <p>
+            <strong><span>4</span>、发布、传送、传播广告信息及垃圾信息；</strong>
+        </p>
+        <p>
+            <strong><span>5</span>、将有关干扰、破坏或限制任何计算机软件、硬件或通讯设备功能的软件病毒或其他计算机代码、档案和程序等资料，加以上载、张贴、发送电子邮件或以其他方式传送；</strong>
+        </p>
+        <p>
+            <strong><span>6</span>、恶意登陆、注册，恶意使用系统功能及服务；干扰或破坏<span>聚宝盆</span>服务或与<span>聚宝盆</span>服务相连的服务器和网络，或不遵守<span>聚宝盆</span>服务网络使用的规定；</strong>
+        </p>
+        <p>
+            <strong><span>7</span>、恶意诋毁或损害<span>聚宝盆</span>声誉、利用<span>聚宝盆</span>用户身份从事违反国家法律法规活动等行为；</strong>
+        </p>
+        <p>
+            <strong><span>8</span>、违反任何相关的中国法律、行政法规、规章、条例等其他具有法律效力的规范。</strong>
+        </p>
+        <p>
+            <strong><span>&nbsp;</span></strong>
+        </p>
+        <p>
+            <strong>二、如果<span>聚宝盆</span>发现或收到他人举报您发布的信息违反本条约定，<span>聚宝盆</span>有权进行独立判断并采取技术手段予以删除、屏蔽或断开链接。同时，<span>聚宝盆</span>有权视用户的行为性质，采取包括但不限于暂停或终止服务，限制、冻结或终止账号使用等措施并追究法律责任。</strong>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h1 style="margin: 0 0 0">
+            <span style="font-size:16px">第四条 服务的变更、中断或终止</span>
+        </h1>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <strong>一、您理解，<span>聚宝盆</span>需要定期或不定期地对提供服务的平台（如互联网网站、移动网络等）或相关的设备进行检修或者维护，或对<span>聚宝盆</span>用户系统进行升级、改造。如因此类情况而造成服务在合理时间内的中断，<span>聚宝盆</span>无需为此承担任何责任。但<span>聚宝盆</span>应尽可能事先进行通告并根据情况在相应服务页面提前作出通知。</strong>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <strong>二、如发生下列任何一种情形，<span>聚宝盆</span>有权不经通知而中断或终止向您提供本协议项下的服务而无需对您或任何第三方承担任何责任：</strong>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <span>1</span>、根据法律规定您应提交真实信息，而您提供的个人资料不真实、或与注册时信息不一致又未能提供合理证明；
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <span>2</span>、您违反相关法律法规或本协议的约定；
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <span>3</span>、按照法律规定或主管部门的要求；
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <span>4</span>、出于安全的原因或其他必要的情形。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <strong>三、您有责任自行备份存储在本服务中的数据。如果您的服务被终止，<span>聚宝盆</span>可以从服务器上永久地删除您的数据<span>,</span>但法律法规另有规定的除外。服务终止后<span>聚宝盆</span>没有义务向您返还数据。</strong>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h1 style="margin: 0 0 0">
+            <span style="font-size:16px">&nbsp;</span><span style="font-size:16px">第五条 授权条款</span>
+        </h1>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <strong>您同意：本人授权<span>聚宝盆</span>，除法律另有规定之外，将本人提供给<span>聚宝盆</span>的信息、享受<span>聚宝盆</span>服务产生的信息（包括本协议签署之前提供和产生的信息）以及<span>聚宝盆</span>根据本条约定查询、收集的信息，用于<span>聚宝盆</span>及其因服务必要委托的金融产品或服务的提供商为本人提供服务、推荐产品、开展市场调查与信息数据分析。</strong>
+        </p>
+        <p>
+            <strong><span>&nbsp;</span></strong>
+        </p>
+        <p>
+            <strong>本人授权<span>聚宝盆</span>，除法律另有规定之外，基于为本人提供更优质服务和产品的目的，向<span>聚宝盆</span>因服务必要开展合作的伙伴提供、查询、收集本人的信息用于第三方账号注册、主动申请第三方服务等合作伙伴提供服务事项。</strong>
+        </p>
+        <p>
+            <strong><span>&nbsp;</span></strong>
+        </p>
+        <p>
+            <strong>本人授权<span>聚宝盆</span>，除法律另有规定之外，基于为本人提供更优质服务和产品的目的，从<span>聚宝盆</span>因服务必要开展合作的伙伴处获取、查询、收集本人的信息。为确保本人信息的安全，<span>聚宝盆</span>及其合作伙伴对上述信息各自负有保密义务，并采取各种措施保证信息安全。</strong>
+        </p>
+        <p>
+            <strong><span>&nbsp;</span></strong>
+        </p>
+        <p>
+            <strong>本条款自本协议签署时生效，具有独立法律效力，不受协议成立与否及效力状态变化的影响。</strong>
+        </p>
+        <p>
+            <strong><span>&nbsp;</span></strong>
+        </p>
+        <p>
+            <strong>如您不同意上述授权条款的部分或全部，可按照<span>聚宝盆</span>的指引取消或变更授权。</strong>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h1 style="margin: 0 0 0">
+            <span style="font-size:16px">第六条 免责条款</span>
+        </h1>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <strong>您理解并同意，<span>聚宝盆</span>在以下情况下不承担责任（包括但不限于）：</strong>
+        </p>
+        <p>
+            <strong>一、<span>聚宝盆</span>不对本服务提供任何形式的保证，包括但不限于本服务符合您的需求，本服务不受干扰、及时提供或免于出错。</strong>
+        </p>
+        <p>
+            <strong>二、<span>聚宝盆</span>的合作金融产品或服务的提供商所提供的服务内容及品质由该合作单位自行负责。</strong>
+        </p>
+        <p>
+            <strong>三、<span>聚宝盆</span>不保证为向用户提供便利而设置的外部链接的准确性和完整性，同时对于该等外部链接指向的不由<span>聚宝盆</span>实际控制的任何网页上的内容，<span>聚宝盆</span>不承担任何责任。</strong>
+        </p>
+        <p>
+            <strong>四、对于因本协议第四条原因或相关的系统故障所造成的服务变更、中断或终止，<span>聚宝盆</span>不承担责任。</strong>
+        </p>
+        <p>
+            <strong>五、因以下情况没有正确执行您提交的<span>聚宝盆</span>用户操作指令而造成损失的，<span>聚宝盆</span>不承担任何责任：</strong>
+        </p>
+        <p>
+            <strong><span>1</span>、指令信息不明、存在乱码或不完整等；</strong>
+        </p>
+        <p>
+            <strong><span>2</span>、您所拥有的产品或服务发生失效、终止等情况；</strong>
+        </p>
+        <p>
+            <strong><span>3</span>、其他<span>聚宝盆</span>无过失的情况。</strong>
+        </p>
+        <p>
+            <strong>六、对于受到计算机病毒、木马或其他恶意程序、黑客攻击所造成的损失。</strong>
+        </p>
+        <p>
+            <strong>七、您须安全使用<span>聚宝盆</span>产品功能，妥善保存<span>聚宝盆</span>的登录账号、登录凭证，对您保管不善造成的损失<span>聚宝盆</span>不承担责任。</strong>
+        </p>
+        <p>
+            <strong>八、如果您在共享环境下或在电脑被远程监控的情况下登陆<span>聚宝盆</span>，由此造成的损失<span>聚宝盆</span>不承担责任。</strong>
+        </p>
+        <p>
+            <strong>九、<span>聚宝盆</span>不允许您使用他人身份信息注册，否则，因此产生的法律责任将由您本人承担，给他人造成损失的，您应给予赔偿。</strong>
+        </p>
+        <p>
+            <strong>十、如您使用他人登录账号，须事先获得他人书面同意。一旦输入正确的登录账号和登录凭证，<span>聚宝盆</span>即视您为已获得他人同意。您与他人之间因此产生的任何纠纷与<span>聚宝盆</span>无关，对您或他人的损失<span>聚宝盆</span>不承担责任，并且如造成<span>聚宝盆</span>损失，<span>聚宝盆</span>将保留追索的权利。</strong>
+        </p>
+        <p>
+            <strong>十一、如果<span>聚宝盆</span>用户将登录账号项下详细信息输入其他任何服务系统而不是输入<span>聚宝盆</span>相关网页安全登陆系统，由此造成的损失<span>聚宝盆</span>不承担责任。</strong>
+        </p>
+        <p>
+            <strong>十二、<span>聚宝盆</span>用户通过移动通讯设备登陆相关网站和使用相关服务，因通讯过程中导致信息的不完整、丢失或被第三方拦截等不可归责于<span>聚宝盆</span>的情形，<span>聚宝盆</span>不承担责任。</strong>
+        </p>
+        <p>
+            <strong>十三、因无法预见、无法避免且无法克服的不可抗力事件，导致<span>聚宝盆</span>在本协议项下的义务无法履行或无法按时履行，<span>聚宝盆</span>在法律允许的范围内免责。</strong>
+        </p>
+        <p>
+            <strong>十四、如果<span>聚宝盆</span>存在投入使用时的科学技术水平尚不能发现的缺陷，由此造成的损失<span>聚宝盆</span>不承担责任。</strong>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h1 style="margin: 0 0 0">
+            <span style="font-size:16px">第七条 知识产权声明</span>
+        </h1>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            一、<span>聚宝盆</span>在本服务中所包含的内容（包括但不限于网页、文字、图片、音频、视频、图表等）及提供本服务时所依托软件的著作权、专利权及其他知识产权均归<span>聚宝盆</span>及关联公司所有。<span>聚宝盆</span>在本服务中所使用的<span>“聚宝盆</span><span>”</span>等商业标识，其商标权和相关权利归<span>聚宝盆</span>所有。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            二、本服务包含的内容的知识产权均受到法律保护，您若侵犯<span>聚宝盆</span>相关知识产权将承担损害赔偿责任。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h1 style="margin: 0 0 0">
+            <span style="font-size:16px">第八条 隐私权保护规则</span>
+        </h1>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <span>聚宝盆</span>承诺采取严格的隐私政策，尊重并保护用户隐私。<span>聚宝盆</span>将按照本隐私权保护规则（以下简称<span>“</span>本规则<span>”</span>）收集、使用及共享您的个人信息。本规则包含了我们收集、存储、保护、使用和共享您的个人信息的条款，建议您完整地阅读本规则，以帮助您了解维护自己隐私权的方式。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h2 style="margin: 0 0 0">
+            <span style="font-size:16px">一、个人信息的收集范围</span>
+        </h2>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            当您使用<span>聚宝盆</span>服务时，您会向我们主动提供一些信息，您同意并许可我们收集您的一些信息，以向您提供服务。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            我们收集信息的范围主要包括：
+        </p>
+        <p>
+            <span>1</span>、为了遵守法律法规的要求，以及基于提供服务及改进服务质量的合理需要，我们需要识别您的身份。在您注册并使用<span>聚宝盆</span>时，您可能要向我们提供一些个人身份资料，例如姓名、证件类型和证件号码、手机号码、联系地址、电子邮件地址等。
+        </p>
+        <p>
+            <span>2</span>、除上述信息外，我们为向您提供更个性化、更便捷的服务的需要而收集您的其他信息，包括但不限于年龄、生日、职业、教育程度等，以及其他资料如使用的语言种类、喜好等。
+        </p>
+        <p>
+            <span>3</span>、为核实您提交的资料是否准确、充分，以及为向您提供更具有针对性的优质服务，我们可能向第三方查询、核实、验证您的个人信息及资料。
+        </p>
+        <p>
+            <span>4</span>、当您访问<span>聚宝盆</span>网站及<span>/</span>或<span>聚宝盆</span>移动设备客户端时，我们可能会记录您操作的相关信息以及与<span>聚宝盆</span>服务相关的日志信息，这些信息可帮助我们向您提供精准服务并更好地保护您的登录账号安全。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h2 style="margin: 0 0 0">
+            <span style="font-size:16px">二、收集个人信息的目的</span>
+        </h2>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            您理解并同意，<span>聚宝盆</span>可能将用户所提供的个人信息用于以下一项或多项目的：
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <span>1</span>、更准确的身份确认；
+        </p>
+        <p>
+            <span>2</span>、处理您购买金融产品或服务的提供商产品及<span>/</span>或服务的要求；
+        </p>
+        <p>
+            <span>3</span>、满足用户使用各类网上服务、移动通讯服务及其他服务的要求；
+        </p>
+        <p>
+            <span>4</span>、更好的用户服务和用户沟通，包括项目研究及计划发展、向用户发送相关新闻和服务信息、为用户提供有关优惠及推荐产品；
+        </p>
+        <p>
+            <span>5</span>、预防或禁止非法的活动；
+        </p>
+        <p>
+            <span>6</span>、经您许可的其他用途。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h2 style="margin: 0 0 0">
+            <span style="font-size:16px">三、保护和存储个人信息</span>
+        </h2>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            为保持数据的准确性，防止擅自入侵及确保个人资料的正确使用，<span>聚宝盆</span>采取了适当的管理措施以保障网站收集个人资料的保密性。<span>聚宝盆</span>采用了安全技术措施来保护数据，建立严格的信息存储和使用制度规范，并对可能接触到您的信息的人员也采取了严格管理。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h2 style="margin: 0 0 0">
+            <span style="font-size:16px">四、个人信息的共享及披露</span>
+        </h2>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            我们对您的信息承担保密义务，我们保证不将您使用本服务时提供的各项信息进行恶意出售或免费共享给任何第三方，但下列情况除外：
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <span>1</span>、获得您的同意或授权；
+        </p>
+        <p>
+            <span>2</span>、某些服务需由合作伙伴金融产品或服务的提供商（包括但不限于提供相关技术支持的公司、快递公司、提供奖品的公司）提供或共同提供，为了向您提供此类服务，<span>聚宝盆</span>有必要与提供该服务的合作伙伴共享完成该服务所需要的用户个人信息；
+        </p>
+        <p>
+            <span>3</span>、<span>聚宝盆</span>与第三方共同进行推广活动，在推广活动中所收集的全部或部分个人信息可能会与该第三方分享；
+        </p>
+        <p>
+            <span>4</span>、根据法律法规或政府的强制性规定，必须向有关司法或政府部门提供用户个人信息；
+        </p>
+        <p>
+            <span>5</span>、为防止用户本人、他人的合法权益或社会公共利益受到重大危害。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h2 style="margin: 0 0 0">
+            <span style="font-size:16px">五、对第三方责任的声明</span>
+        </h2>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <strong><span>聚宝盆</span>因服务必要，可能通过网站链接或明确提示的方式至<span>聚宝盆</span>开展合作的伙伴的金融产品或服务的提供商网站或服务页面。本《隐私权保护规则》并不适用于这些第三方网站或服务页面，因为相关的第三方网站或平台并不受<span>聚宝盆</span>控制。如果您使用<span>聚宝盆</span>提供的链接访问第三方网站，这些网站的运营商可能会收集您的个人信息。<span>聚宝盆</span>尽力确保所有链接的第三方网站采用同等的个人信息保护措施，但是<span>聚宝盆</span>不对这些第三方网站上的活动、隐私权政策或隐私保护水平承担任何法律或其他责任。</strong>
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h1 style="margin: 0 0 0">
+            <span style="font-size:16px">第九条<span> 聚宝盆</span>平台服务协议</span>
+        </h1>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            如果您登陆并使用<span>聚宝盆</span>平台提供的服务时，您还应同意并遵守以下协议内容：
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            <span>1</span>、您可以卸载本产品；
+        </p>
+        <p>
+            <span>2</span>、使用<span>聚宝盆</span>管理金融或非金融产品账户的前提是：<span>聚宝盆</span>用户拥有金融或非金融产品或账户并在<span>聚宝盆</span>进行了该产品或账户添加，且所添加的产品或账户属于<span>聚宝盆</span>可添加的产品或账户范围；
+        </p>
+        <p>
+            <span>3</span>、您可以按照<span>聚宝盆</span>相关规则使用<span>聚宝盆</span>增值服务，包括但不限于：分类查询加挂整合的账户信息、随时查看资产负债情况、更新所有加挂账户数据、查看消息提醒以及使用邮箱账单导入等服务功能。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h1 style="margin: 0 0 0">
+            <span style="font-size:16px">第十条 法律效力</span>
+        </h1>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            一、用户使用<span>聚宝盆</span>服务即视为用户已阅读本协议并接受本协议的约束。
+        </p>
+        <p>
+            二、本协议所有条款的标题仅为阅读方便，本身并无实际含义，不能作为本协议含义解释的依据。
+        </p>
+        <p>
+            三、本协议条款无论因何种原因部分无效或不可执行，其余条款仍有效，对双方具有约束力。
+        </p>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <h1 style="margin: 0 0 0">
+            <span style="font-size:16px">第十一条 法律适用和争议解决</span>
+        </h1>
+        <p>
+            <span>&nbsp;</span>
+        </p>
+        <p>
+            一、本协议的成立、生效、履行、解释及纠纷解决，适用中华人民共和国大陆地区法律（不含冲突法），如无相关法律规定的，则应参照通用国际商业惯例和<span>/</span>或行业惯例。
+        </p>
+        <p>
+            二、您与<span>聚宝盆</span>在履行本协议的过程中，如发生争议，应协商解决。协商不成的，均提请北京仲裁委员会按照该会仲裁规则进行仲裁。仲裁裁决是终局的，对双方均有约束力。
+        </p>
+        <p>
+            <br/>
+        </p>
+    </div>
+</body>
+</html>
